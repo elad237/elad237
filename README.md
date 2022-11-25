@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elad237" alt="elad237" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/elad59380989" target="blank"><img src="https://img.shields.io/twitter/follow/elad59380989?logo=twitter&style=for-the-badge" alt="elad59380989" /></a> </p>
+<p align="left"> <a href="(https://www.linkedin.com/in/tumbu-elad-896ab2183/)" target="blank"><img src="<i class="fa-brands fa-linkedin"></i>/follow/tumbu-elad-896ab2183?logo=twitter&style=for-the-badge" alt="tumbu-elad-896ab2183" /></a> </p>
 
 - 🔭 I’m currently working on [To do list](https://github.com/elad237/My-to-do-list-revierw.git)
 
