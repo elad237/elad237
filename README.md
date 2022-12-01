@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm TUMBU BARTHOLOMEW ELAD</h1>
-<h3 align="center">A passionate full stack developer from Cameroon currently enrolled at Microverse, a remote software development school that uses pair programming and real world projects to teach development in a professional work setting environment. I know how to work remotely and collaboratively because of the experience I have gained when learning to code at Microverse, an online training school. I am Available for hiring </h3>
+<h3 align="center">A passionate full stack developer from Cameroon currently enrolled at Microverse, a remote software development school that uses pair programming and real world projects to teach development in a professional work setting environment. I know how to work remotely and collaboratively because of the experience I have gained when learning to code at Microverse, an online training school. </h3>
+<h1 align="center"><strong>I am Available for hiring</strong></h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elad237&label=Profile%20views&color=0e75b6&style=flat" alt="elad237" /> </p>
 
