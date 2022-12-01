@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TUMBU BARTHOLOMEW ELAD</h1>
-<h3 align="center">A passionate full stack developer from Cameroon currently enrolled at Microverse, a remote software development school that uses pair programming and real world projects to teach development in a professional work setting environment. I know how to work remotely and collaboratively because of the experience I have gained when learning to code at Microverse, an online training school. In this school, I code every day with other developers around the world and have learned the important skills of communication and teamwork. </h3>
-Available for hiring
+<h3 align="center">A passionate full stack developer from Cameroon currently enrolled at Microverse, a remote software development school that uses pair programming and real world projects to teach development in a professional work setting environment. I know how to work remotely and collaboratively because of the experience I have gained when learning to code at Microverse, an online training school. I am Available for hiring </h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elad237&label=Profile%20views&color=0e75b6&style=flat" alt="elad237" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elad237" alt="elad237" /></a> </p>
