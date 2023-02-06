@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm TUMBU BARTHOLOMEW ELAD</h1>
-<h3 align="center">A passionate full stack developer from Cameroon currently enrolled at Microverse, a remote software development school that uses pair programming and real world projects to teach development in a professional work setting environment. I know how to work remotely and collaboratively because of the experience I have gained when learning to code at Microverse, an online training school. </h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=10000&pause=100&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+TUMBU+BARTHOLOMEW+ELAD;A+passionate+full+stack+developer+" alt="Typing SVG" /></a></h1>
+<h3 align="center">I am a Cameroonain base in Douala. I am currently enrolled at Microverse, a remote software development school that uses pair programming and real world projects to teach development in a professional work setting environment. I know how to work remotely and collaboratively because of the experience I have gained when learning to code at Microverse, an online training school. </h3>
 <h1 align="center"><strong>I am Available for hiring</strong></h1>
 
 
